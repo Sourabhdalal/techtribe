@@ -67,7 +67,6 @@ int main()
     cout<<"modified year:"<<c1.getyear()<<endl;
 	c1.displaydate();
 	c1.setday();
-	c1.displaydate();
 	
 	
 }
