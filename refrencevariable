@@ -7,6 +7,4 @@ int main()
    int& j=a;
    cout<<&f<<endl;
    cout<<&j<<endl;
-   
-   	
 } 
