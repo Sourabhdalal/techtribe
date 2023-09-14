@@ -50,4 +50,4 @@
     good results. Also the company wants to provide the best quality
     to their consumers as they are here to serve their loyal customers
     hence the company will try to give them the best service and best 
-    discounts possible such that they can get the best benefit with them.
+    discounts possible such that they can get the best benefit with them..
