@@ -1,6 +1,6 @@
-#include <iostream>
+###########include <iostream>
 using namespace std;
-class Date1
+class Date12
 {
 	int dd,mm,yy;
 	public:

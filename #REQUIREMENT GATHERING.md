@@ -1,6 +1,6 @@
-#REQUIREMENT GATHERING
+#######REQUIREMENT GATHERING
 
-1. USER Friendly UI
+1. USER Friendly UI ___
     The most important panel for any application as the application 
     is built for end users only and if they are not happy with the 
     UI given it can become a big problme to the company and hinder
