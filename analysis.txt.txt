@@ -2,7 +2,8 @@
 
 Software Architecture 
 
--- Secutiry Module
+-- Secutiry Module 
+        - Regular inspection of system
 
 -- DATA MODULE 
 	- Exam data
@@ -12,7 +13,7 @@ Software Architecture
 	 
 
 --- LOGIN ID
-	- Usernmae 
+	- Username / PRN no / exam form no.  
 	- Password
 
 
@@ -24,17 +25,17 @@ Software Architecture
 --- AUTHENTICATION ID		
 	- Facial Recognition
 	- Admin Panel Login
-	- Capthca
+	- Captcha
 	- Eye Recognition
 
 
 --- FACULTY ID
-	- Faculty Usernmae 
-	- Faculy Password 
+	- Faculty Username
+	- Faculty Password 
 
 
 --- ADMIN ID
-	
+	- 
 
 --- STUDENT ID
 	- Question Section Panel
