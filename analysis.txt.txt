@@ -1,0 +1,39 @@
+#MODULE 
+
+-- Secutiry Module
+
+-- DATA MODULE 
+	- Exam data
+	- Student data
+	- Faculty Data
+	- Credential Data 
+	 
+
+--- LOGIN ID
+	- Usernmae 
+	- Password
+
+
+--- CENTRE ID
+	- Centre Name
+	- Centre Location 
+
+
+--- AUTHENTICATION ID		
+	- Facial Recognition
+	- Admin Panel Login
+	- Capthca
+	- Eye Recognition
+
+
+--- FACULTY ID
+	- Faculty Usernmae 
+	- Faculy Password 
+
+
+--- ADMIN ID
+	
+
+--- STUDENT ID
+	- Question Section Panel
+		
