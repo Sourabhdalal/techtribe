@@ -1,0 +1,72 @@
+###########include <iostream>
+using namespace std;
+class Date12
+{
+	int dd,mm,yy;
+	public:
+		void acceptdate()
+		{
+			cout<<"enter the date"<<endl;
+			cin>>dd>>mm>>yy;
+			
+		}
+		void displaydate()
+		{
+			cout<<"date is:"<<dd<<"/"<<mm<<"/"<<yy<<endl;
+		}
+		void acceptparam(int a,int b,int c)
+		{
+			dd=a;
+			mm=b;
+			yy=c;
+		}
+		void setday()
+		{
+			cout<<"enter the day"<<endl;
+			cin>>dd;
+			
+		}
+		void setmonth()
+		{
+				cout<<"enter the month"<<endl;
+				cin>>mm;
+			
+		}	
+		void setyear()
+		{
+				cout<<"enter the year"<<endl;
+				cin>>yy;
+		
+		}
+		int getday()
+		{
+		 return dd;
+		}
+		int getmonth()
+		{
+		 return mm;
+		}
+		int getyear()
+		{
+		 return yy;
+		}
+};
+int main()
+{
+	Date1 c1;
+	cout<<"size of c1:"<<sizeof(c1)<<endl;
+	c1.acceptdate();
+	c1.displaydate();
+	c1.acceptparam(10,12,22);
+	c1.displaydate();
+	c1.setday();
+	c1.setmonth();
+	c1.setyear();
+	cout<<"modified day:"<<c1.getday()<<endl;
+	cout<<"modified month:"<<c1.getmonth()<<endl;
+    cout<<"modified year:"<<c1.getyear()<<endl;
+	c1.displaydate();
+	c1.setday();
+	
+	
+}
