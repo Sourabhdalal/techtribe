@@ -1,2 +1,0 @@
-# techtribe
-Requirement gathering done.
